@@ -1,2 +1,2 @@
-# Rango2
-Let's try this again.
+# Rango
+Contains all of the code for the Rango webpage.
